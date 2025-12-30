@@ -1,0 +1,6 @@
+raw_dir: "./data/raw_html"
+clean_dir: "./data/articles"
+state_file: "crawler_state.json"
+
+wiki_category: "Категория:Всемирная история"
+histrf_url: "https://histrf.ru/read/articles"
